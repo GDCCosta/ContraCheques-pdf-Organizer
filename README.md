@@ -29,7 +29,7 @@ pip install pdfplumber tqdm
 1. Ajuste o caminho da pasta no script
 2. Execute:
 ```bash
-python contracheques-pdf-organizer.py
+python ContraCheques-pdf-Organizer.py
 ```
 
 ## Estrutura Final
